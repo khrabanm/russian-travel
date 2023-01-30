@@ -1,0 +1,18 @@
+.place__paragraph {
+    color: #FFF;
+    font-size: 18px;
+    line-height: 163%;
+    font-weight: 400;
+    font-family: 'Inter', Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 26px;
+  }
+
+  @media screen and (max-width: 1023px) {
+    .place__paragraph {
+        font-size: 16px;
+    }
+}
