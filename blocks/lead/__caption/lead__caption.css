@@ -1,11 +1,11 @@
 .lead__caption {
-    color: #FFF;
-    font-size: 10px;
-    line-height: 14px;
-    font-weight: 400;
-    font-family: 'Inter', Arial, Helvetica, sans-serif;
-    margin: 0;
-    margin-top: 8px;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-  }
+  color: #FFF;
+  font-size: 10px;
+  line-height: 14px;
+  font-weight: 400;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  margin: 0;
+  margin-top: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
