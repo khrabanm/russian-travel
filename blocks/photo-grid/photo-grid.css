@@ -27,3 +27,10 @@
     gap: 12px;
   }
 }
+
+@media screen and (min-width: 1600px) {
+  .photo-grid {
+    margin: 92px 248px;
+    width: calc(100% - 596px);
+  }
+}

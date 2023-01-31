@@ -32,3 +32,9 @@
     grid-template-rows: 110px 554px 90px;
   }
 }
+
+@media screen and (min-width: 1600px) {
+  .intro {
+    margin: 92px 0 92px 248px;
+  }
+}

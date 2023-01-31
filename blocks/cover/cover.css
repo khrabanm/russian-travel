@@ -1,27 +1,8 @@
 .cover {
   width: calc(100% - 96px);
   margin: 92px auto;
-  position: relative;
-  background-image: url(../../images/cover__background.jpg);
-  background-size: contain;
-  aspect-ratio: 16/10;
-}
-
-.cover::before {
-  content:"";
-  display: block;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: #2a2c2f;
-  opacity: 0.3;
-}
-
-.cover:hover::before {
-  opacity: 0.8;
-  transition: opacity 1s linear;
+  display: flex;
+  flex-direction: column;
 }
 
 @media screen and (max-width: 1279px) {
