@@ -17,3 +17,9 @@
     margin: 64px 0;
   }
 }
+
+@media screen and (min-width:1281px) {
+  .cover {
+    max-width: 1184px;
+  }
+}

@@ -25,3 +25,10 @@
     padding-top: 16px;
   }
 }
+
+@media screen and (min-width:1281px) {
+  .header {
+    max-width: 1184px;
+    margin: auto;
+  }
+}

@@ -16,8 +16,9 @@
   }
 }
 
-@media screen and (min-width: 1600px) {
+@media screen and (min-width:1281px) {
   .lead {
-    margin: 0 248px;
+    max-width: 984px;
+    margin: auto;
   }
 }
